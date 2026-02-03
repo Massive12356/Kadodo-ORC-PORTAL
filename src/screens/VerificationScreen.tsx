@@ -62,7 +62,7 @@ export default function VerificationScreen() {
                 htmlFor="licenseNumber"
                 className="block text-sm font-medium text-gray-900 mb-2"
               >
-                ICAG Registration Number or Kadodo Number
+                ORC Registration Number or Kadodo Number
               </label>
               <input
                 id="licenseNumber"

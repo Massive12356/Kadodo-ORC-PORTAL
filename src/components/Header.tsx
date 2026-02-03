@@ -19,7 +19,7 @@ const Header = () => {
             <div className="w-10 h-10 bg-blue-900 rounded flex items-center justify-center">
               <Building className="w-6 h-6 text-white" />
             </div>
-            <h1 className="ml-3 text-xl font-bold text-gray-900">ICAG</h1>
+            <h1 className="ml-3 text-xl font-bold text-gray-900">OFFICE OF REGISTRAR COMPANIES(ORC)</h1>
           </div>
           
           <div className="hidden md:flex items-center gap-6">
@@ -106,7 +106,7 @@ const Header = () => {
                   <div className="w-10 h-10 bg-blue-900 rounded flex items-center justify-center">
                     <Building className="w-6 h-6 text-white" />
                   </div>
-                  <h1 className="ml-3 text-xl font-bold text-gray-900">ICAG</h1>
+                  <h1 className="ml-3 text-xl font-bold text-gray-900">ORC</h1>
                 </div>
                 <button
                   onClick={() => setIsMenuOpen(false)}

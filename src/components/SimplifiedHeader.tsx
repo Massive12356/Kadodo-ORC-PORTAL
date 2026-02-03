@@ -11,7 +11,7 @@ const SimplifiedHeader = () => {
               <div className="w-10 h-10 bg-blue-900 rounded flex items-center justify-center">
                 <Building className="w-6 h-6 text-white" />
               </div>
-              <span className="ml-3 text-xl font-bold text-gray-900">ICAG</span>
+              <span className="ml-3 text-xl font-bold text-gray-900">ORC</span>
             </div>
           </div>
           

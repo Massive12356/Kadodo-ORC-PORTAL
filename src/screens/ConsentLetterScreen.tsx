@@ -245,12 +245,12 @@ export default function ConsentLetterScreen() {
                 <span className="font-bold text-gray-900">
                   {consentData?.auditorFullName ?? "N/A"}
                 </span>{" "}
-                (ICAG Registration Number:{" "}
+                (ORC Registration Number:{" "}
                 <span className="font-bold text-gray-900">
                   {consentData.licenseNumber}
                 </span>
                 ), being a qualified auditor in accordance with the regulations
-                of the Institute of Chartered Accountants, Ghana (ICAG), hereby
+                of the Office of the Registrar of Companies (ORC), hereby
                 give my consent to act as the auditor for:
               </p>
 
@@ -275,8 +275,7 @@ export default function ConsentLetterScreen() {
 
               <p>
                 For verification and record-keeping purposes with the Office of
-                the Registrar of Companies (ORC) and the Institute of Chartered
-                Accountants, Ghana (ICAG), the unique digital consent code
+                the Registrar of Companies (ORC), the unique digital consent code
                 associated with this appointment is:
               </p>
 
@@ -324,7 +323,7 @@ export default function ConsentLetterScreen() {
               <p className="font-bold text-gray-900">
                 {consentData.auditorFullName}
               </p>
-              <p className="text-gray-600">Chartered Accountant (ICAG)</p>
+              <p className="text-gray-600">Registered Auditor (ORC)</p>
             </div>
           </div>
         </div>

@@ -14,7 +14,7 @@ export default function HomeScreen() {
               <div className="flex-shrink-0 flex items-center">
                 <Shield className="h-8 w-8 text-blue-600" />
                 <span className="ml-2 text-[0.8rem] md:text-xl font-bold text-gray-900">
-                  Kadodo Auditors Verification Portal
+                  Office of the Registrar of Companies Ghana (ORC)
                 </span>
               </div>
             </div>
@@ -220,7 +220,7 @@ export default function HomeScreen() {
               </a>
             </div>
             <p className="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
-              &copy; 2023 Institute of Chartered Accountants Ghana. All rights
+              &copy; 2023 Office of the Registrar of Companies Ghana. All rights
               reserved.
             </p>
           </div>
